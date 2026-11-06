@@ -1,0 +1,6 @@
+get -> use to get/ fetch data from server.
+post -> send data to server.
+patch -> update some data.
+delete -> delete data
+
+REST API-> a protocol that need http to work.
